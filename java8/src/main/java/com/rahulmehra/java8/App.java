@@ -1,4 +1,4 @@
-package com.rahulmehra.java8.java8;
+package com.rahulmehra.java8;
 
 /**
  * Hello world!
